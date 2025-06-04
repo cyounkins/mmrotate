@@ -1,7 +1,7 @@
 -e git+https://github.com/QUVA-Lab/e2cnn.git#egg=e2cnn
 matplotlib
-mmcv
-mmdet<2.2.0
+mmcv<2.2.0
+mmdet
 numpy
 pycocotools
 six
